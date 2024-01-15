@@ -1,3 +1,9 @@
+userName = "Tom"
+userAge = 37
+user = f"name: {userName}  age: {userAge}"
+print(user)   # name: Tom  age: 37
+print(type(user), userName, end=" ", )
+print('654654')
 
-# Казимир напши программу часов
-
+name=input('insert name: ')
+print(f"name is: {name}")
